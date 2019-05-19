@@ -106,6 +106,7 @@ API Details
 ```http://localhost:4567/v1/transfer/10000002```
 
 The more details on above APIs can be found at
+https://github.com/sujittripathy/sparkjava-demo-money-transfer/wiki/Money-Transfer-API-Documentation
 
 Database Design
 ==============
