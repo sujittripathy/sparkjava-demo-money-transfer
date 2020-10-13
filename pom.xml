@@ -19,7 +19,7 @@
         <sl4j>1.7.21</sl4j>
         <assertj>3.11.1</assertj>
         <unirest>1.4.9</unirest>
-        <junit>4.12</junit>
+        <junit>4.13.1</junit>
         <mockito>2.26.0</mockito>
     </properties>
 
