@@ -12,7 +12,7 @@
         <java.version>1.8</java.version>
         <spark-core>2.8.0</spark-core>
         <gson>2.8.2</gson>
-        <h2>1.4.196</h2>
+        <h2>2.0.206</h2>
         <jdbi>3.6.0</jdbi>
         <guice>4.0</guice>
         <lombok>1.18.0</lombok>
